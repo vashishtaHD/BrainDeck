@@ -35,7 +35,7 @@
 
 ## About The Project
 
-![Screen Shot](images/Quiz Page-1.png)
+<img src="images/Quiz Page-1.png" alt="Logo">
 
 BrainDeck is an AI-powered quiz app that solves a significant problem in the education market. Our personalized study recommendations, real-time feedback, and adaptive learning set us apart from our competitors. With a strong marketing and sales strategy, we have the potential to capture a significant portion of the serviceable obtainable market and generate substantial revenue and profits.
 
